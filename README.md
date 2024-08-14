@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Haruka (he/him)</h1>
+<pre>
+Welcome to my github (absolutely skid).
+</pre>
 
-<!--
-**harukaaxd/harukaaxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🤓 about me</h2>
+<pre> 
+• I'm Haruka, a cybersecurity enthusiast 
+• Also im a Blue Archive enjoyer 😭   
 
-Here are some ideas to get you started:
+• on this github i will upload my PoC or somethin that i can skid :D  
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 my skills</h2>
+<pre>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,bash,linux,mysql" /></a>
+</pre> 
+
+<h2>🐱‍💻 want contact?</h2>  
+<pre>
+contact me on telegram: @skiddinglover<a href="https://t.me/skiddinglover"></a> 
+</pre> 
